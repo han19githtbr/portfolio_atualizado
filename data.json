@@ -1,0 +1,416 @@
+{
+  "pt": {
+    "nav_about": "Sobre",
+    "nav_experience": "Experiência",
+    "nav_projects": "Projetos",
+    "nav_award": "Premiação",
+    "nav_education": "Formação",
+    "nav_contact": "Contato",
+    "hero_status": "Em constante desenvolvimento",
+    "hero_role": "Desenvolvedor Front-end",
+    "hero_subtitle": "Sou um desenvolvedor focado em criar interfaces que valorizam a experiência da usuário e procuro utilizar as boas práticas de desenvolvimento de software.",
+    "lang_pt": "🇧🇷 Português — Avançado",
+    "lang_fr": "🇫🇷 Francês — Fluente",
+    "lang_cr": "🌴 Crioulo — Fluente",
+    "lang_en": "🇺🇸 Inglês — Intermediário",
+    "cta_projects": "Ver Projetos",
+    "about_label": "Sobre mim",
+    "about_title": "Quem sou eu",
+    "about_text": "<p>Sou desenvolvedor <strong>Front-end</strong> com experiência em WordPress, Angular, JavaScript, Node.js, Git, MySQL, MongoDB, Firebase, React e Next.js. Graduado em <strong>Ciência da Computação</strong> pela UFRRJ, acredito que boas interfaces nascem da combinação entre código limpo e atenção à experiência do usuário.</p><p>Valorizo o <strong>trabalho em equipe</strong>, a boa comunicação e a constante evolução técnica. Tenho disposição para sair da zona de conforto e aprender novas tecnologias e abordagens de resolução de problemas.</p><p>Atualmente desenvolvo projetos pessoais explorando técnicas como <strong>Web Sockets</strong>, <strong>Speech Synthesis/Recognition</strong> e integração com APIs externas, enquanto aprofundo conhecimentos em Docker e Engenharia de IA.</p>",
+    "skills_frontend": "Front-end",
+    "skills_backend": "Back-end & Banco de Dados",
+    "skills_tools": "Ferramentas & Plataformas",
+    "exp_label": "Carreira",
+    "exp_title": "Experiência Profissional",
+    "exp_current": "● Atual (Colaborador)",
+    "exp_pj": "PJ · Remoto",
+    "exp_intern": "Estágio",
+    "experiences": [
+      {
+        "role": "Desenvolvedor Full Stack",
+        "company": "FIKIRIA",
+        "period": "Abr 2025 — Atual",
+        "type": "current",
+        "desc": "Desenvolvimento e manutenção da plataforma Web e do aplicativo móvel que capta os dados pela tecnologia IoT(Internet das Coisas).",
+        "techs": [
+          "Firebase",
+          "JavaScript",
+          "GitLab"
+        ]
+      },
+      {
+        "role": "Desenvolvedor Front-end",
+        "company": "Crosoften",
+        "period": "Abr 2024 — Ago 2024",
+        "type": "pj",
+        "desc": "Desenvolvimento de interfaces Front-end, integração e manutenção de aplicações Web. Metodologia ágil com daily meetings para discutir sprints, pendências e próximos passos. Desenvolvimento, commit e implementação de correções solicitadas pelos clientes.",
+        "techs": [
+          "Angular",
+          "Node.js"
+        ]
+      },
+      {
+        "role": "Estagiário de Desenvolvimento Web",
+        "company": "Procuradoria Geral do Município de Nova Iguaçu",
+        "period": "Abr 2021 — Jul 2022",
+        "type": "intern",
+        "desc": "Auxílio no desenvolvimento e manutenção do site institucional e do sistema de controle de ponto da Procuradoria. Suporte técnico a servidores, manutenção de bancos de dados e construção das páginas Web com Elementor (WordPress). Backup de conteúdo com o plugin UpdraftPlus.",
+        "techs": [
+          "WordPress",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Java",
+          "Spring Boot"
+        ]
+      }
+    ],
+    "proj_label": "Portfólio",
+    "proj_title": "Projetos em Destaque",
+    "proj_full_portfolio": "Ver Portfólio Completo (em construção)",
+    "projects": [
+      {
+        "icon": "🎮",
+        "color": "rgba(0,212,255,0.15)",
+        "border": "rgba(0,212,255,0.2)",
+        "name": "Jogo de Aprendizagem de Francês",
+        "desc": "Plataforma interativa para aprendizado de francês com autenticação, imagens em banco de dados, Web Sockets para comunicação em tempo real entre páginas e consumo de APIs de áudio/vídeo com limite de requisições.",
+        "techs": [
+          "Next.js",
+          "MongoDB",
+          "Web Sockets",
+          "Speech Synthesis",
+          "Vercel"
+        ],
+        "demo": "https://french-game.vercel.app/",
+        "github": "https://github.com/han19githtbr/french_game.git"
+      },
+      {
+        "icon": "✅",
+        "color": "rgba(0,229,160,0.15)",
+        "border": "rgba(0,229,160,0.2)",
+        "name": "Sistema de Gerenciamento de Tarefas",
+        "desc": "Aplicação full stack para gestão de tarefas com interface Angular e back-end em Java. Permite criação, edição, exclusão e organização de tarefas com interface moderna e responsiva.",
+        "techs": [
+          "Angular",
+          "Java",
+          "Vercel"
+        ],
+        "demo": "https://gerenciamento-tarefas-angular-gde6vunv6-han19githtbrs-projects.vercel.app/",
+        "github": "https://github.com/han19githtbr/gerenciamento_tarefas_angular.git"
+      },
+      {
+        "icon": "💬",
+        "color": "rgba(255,107,107,0.15)",
+        "border": "rgba(255,107,107,0.2)",
+        "name": "Sistema de Envio de Mensagens",
+        "desc": "Sistema de formulário e envio de mensagens desenvolvido com PHP e JavaScript, com integração a banco de dados simulando o Intersystems Caché. Demonstra integração backend/frontend com tecnologias heterogêneas.",
+        "techs": [
+          "PHP",
+          "JavaScript",
+          "Intersystems Caché",
+          "Render"
+        ],
+        "demo": "https://php-javascript-form.onrender.com/",
+        "github": "https://github.com/han19githtbr/php-javascript-form.git"
+      }
+    ],
+    "award_label": "Reconhecimento",
+    "award_title": "Premiação",
+    "award_badge": "★ Vencedor — Top 6",
+    "award_event": "Hackathon Desafio Rocinha",
+    "award_desc": "A equipe <strong>Indústrias William</strong> — composta por Deived William da Silva Azevedo, Handy Claude Marie Milliance e Jailson Dias da Silva — foi uma das <strong>6 equipes vencedoras</strong> do Hackathon Desafio Rocinha com o projeto <strong>Predição de Deslizamento de Terra</strong>. O hackathon foi realizado no âmbito do Programa Favela Inteligente em Apoio às Bases para o Parque de Inovação Social e Sustentável na Rocinha (Edital de Seleção Nº 37/2021).",
+    "award_theme": "Inovação Social & Sustentabilidade",
+    "edu_label": "Formação & Estudos",
+    "edu_title": "Educação",
+    "edu_degree": "Bacharelado em Ciência da Computação",
+    "studying_label": "Em estudo",
+    "studying_docker": "Implantação de aplicativos em contêineres",
+    "studying_ai_title": "Engenharia de IA",
+    "studying_ai_desc": "Técnicas de IA e integração em aplicações",
+    "contact_label": "Vamos conversar",
+    "contact_title": "Contato",
+    "contact_email_label": "E-mail",
+    "contact_phone_label": "Telefone",
+    "contact_portfolio_label": "Portfólio",
+    "contact_location_label": "Localização",
+    "contact_location_value": "Niterói, RJ — Brasil",
+    "footer_made": "Desenvolvido com"
+  },
+  "en": {
+    "nav_about": "About",
+    "nav_experience": "Experience",
+    "nav_projects": "Projects",
+    "nav_award": "Award",
+    "nav_education": "Education",
+    "nav_contact": "Contact",
+    "hero_status": "Constantly improving",
+    "hero_role": "Front-end Developer",
+    "hero_subtitle": "I am a developer focused on creating interfaces that enhance the user experience, and I strive to follow software development best practices.",
+    "lang_pt": "🇧🇷 Portuguese — Advanced",
+    "lang_fr": "🇫🇷 French — Fluent",
+    "lang_cr": "🌴 Creole — Fluent",
+    "lang_en": "🇺🇸 English — Intermediate",
+    "cta_projects": "View Projects",
+    "about_label": "About me",
+    "about_title": "Who I am",
+    "about_text": "<p>I am a <strong>Front-end developer</strong> with experience in WordPress, Angular, JavaScript, Node.js, Git, MySQL, MongoDB, Firebase, React and Next.js. Graduated in <strong>Computer Science</strong> from UFRRJ, I believe that great interfaces are born from the combination of clean code and attention to user experience.</p><p>I value <strong>teamwork</strong>, good communication and constant technical growth. I am willing to step out of my comfort zone and learn new technologies and problem-solving approaches.</p><p>I currently develop personal projects exploring techniques such as <strong>Web Sockets</strong>, <strong>Speech Synthesis/Recognition</strong> and external API integration, while deepening my knowledge in Docker and AI Engineering.</p>",
+    "skills_frontend": "Front-end",
+    "skills_backend": "Back-end & Databases",
+    "skills_tools": "Tools & Platforms",
+    "exp_label": "Career",
+    "exp_title": "Professional Experience",
+    "exp_current": "● Current (Collaborator)",
+    "exp_pj": "Freelance · Remote",
+    "exp_intern": "Internship",
+    "experiences": [
+      {
+        "role": "Full Stack Developer",
+        "company": "FIKIRIA",
+        "period": "Apr 2025 — Present",
+        "type": "current",
+        "desc": "Development and maintenance of the web platform and mobile application that collects data using IoT (Internet of Things) technology.",
+        "techs": [
+          "Firebase",
+          "JavaScript",
+          "GitLab"
+        ]
+      },
+      {
+        "role": "Front-end Developer",
+        "company": "Crosoften",
+        "period": "Apr 2024 — Aug 2024",
+        "type": "pj",
+        "desc": "Development of Front-end interfaces, integration and maintenance of Web applications. Agile methodology with daily meetings to discuss sprints, pending tasks and next steps. Development, commit and implementation of client-requested fixes.",
+        "techs": [
+          "Angular",
+          "Node.js"
+        ]
+      },
+      {
+        "role": "Web Development Intern",
+        "company": "Attorney General of Nova Iguaçu",
+        "period": "Apr 2021 — Jul 2022",
+        "type": "intern",
+        "desc": "Assistance in the development and maintenance of the institutional website and the attendance control system of the Attorney's Office. Technical support for servers, database maintenance, and creation of web pages using Elementor (WordPress). Content backup using the UpdraftPlus plugin.",
+        "techs": [
+          "WordPress",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Java",
+          "Spring Boot"
+        ]
+      }
+    ],
+    "proj_label": "Portfolio",
+    "proj_title": "Featured Projects",
+    "proj_full_portfolio": "View Full Portfolio (under construction)",
+    "projects": [
+      {
+        "icon": "🎮",
+        "color": "rgba(0,212,255,0.15)",
+        "border": "rgba(0,212,255,0.2)",
+        "name": "French Learning Game",
+        "desc": "Interactive platform for learning French with authentication, database-stored images, Web Sockets for real-time communication between pages, and audio/video API consumption with rate limiting.",
+        "techs": [
+          "Next.js",
+          "MongoDB",
+          "Web Sockets",
+          "Speech Synthesis",
+          "Vercel"
+        ],
+        "demo": "https://french-game.vercel.app/",
+        "github": "https://github.com/han19githtbr/french_game.git"
+      },
+      {
+        "icon": "✅",
+        "color": "rgba(0,229,160,0.15)",
+        "border": "rgba(0,229,160,0.2)",
+        "name": "Task Management System",
+        "desc": "Full stack application for task management with an Angular interface and Java back-end. Allows creation, editing, deletion and organization of tasks with a modern and responsive interface.",
+        "techs": [
+          "Angular",
+          "Java",
+          "Vercel"
+        ],
+        "demo": "https://gerenciamento-tarefas-angular-gde6vunv6-han19githtbrs-projects.vercel.app/",
+        "github": "https://github.com/han19githtbr/gerenciamento_tarefas_angular.git"
+      },
+      {
+        "icon": "💬",
+        "color": "rgba(255,107,107,0.15)",
+        "border": "rgba(255,107,107,0.2)",
+        "name": "Messaging System",
+        "desc": "Form and message-sending system built with PHP and JavaScript, integrated with a database simulating Intersystems Caché. Demonstrates backend/frontend integration with heterogeneous technologies.",
+        "techs": [
+          "PHP",
+          "JavaScript",
+          "Intersystems Caché",
+          "Render"
+        ],
+        "demo": "https://php-javascript-form.onrender.com/",
+        "github": "https://github.com/han19githtbr/php-javascript-form.git"
+      }
+    ],
+    "award_label": "Recognition",
+    "award_title": "Award",
+    "award_badge": "★ Winner — Top 6",
+    "award_event": "Hackathon Desafio Rocinha",
+    "award_desc": "The team <strong>Indústrias William</strong> — composed of Deived William da Silva Azevedo, Handy Claude Marie Milliance and Jailson Dias da Silva — was one of the <strong>6 winning teams</strong> at the Hackathon Desafio Rocinha with the project <strong>Landslide Prediction</strong>. The hackathon was held under the Favela Inteligente Program in Support of the Bases for the Social and Sustainable Innovation Park in Rocinha (Selection Notice No. 37/2021).",
+    "award_theme": "Social Innovation & Sustainability",
+    "edu_label": "Education & Studies",
+    "edu_title": "Education",
+    "edu_degree": "Bachelor's Degree in Computer Science",
+    "studying_label": "Currently studying",
+    "studying_docker": "Application deployment with containers",
+    "studying_ai_title": "AI Engineering",
+    "studying_ai_desc": "AI techniques and integration in applications",
+    "contact_label": "Let's talk",
+    "contact_title": "Contact",
+    "contact_email_label": "Email",
+    "contact_phone_label": "Phone",
+    "contact_portfolio_label": "Portfolio",
+    "contact_location_label": "Location",
+    "contact_location_value": "Niterói, RJ — Brazil",
+    "footer_made": "Made with"
+  },
+  "fr": {
+    "nav_about": "À propos",
+    "nav_experience": "Expérience",
+    "nav_projects": "Projets",
+    "nav_award": "Récompense",
+    "nav_education": "Formation",
+    "nav_contact": "Contact",
+    "hero_status": "En constante évolution",
+    "hero_role": "Développeur Front-end",
+    "hero_subtitle": "Je suis un développeur spécialisé dans la création d'interfaces qui valorisent l'expérience utilisateur et je m'efforce de suivre les bonnes pratiques du développement de logiciels.",
+    "lang_pt": "🇧🇷 Portugais — Avancé",
+    "lang_fr": "🇫🇷 Français — Courant",
+    "lang_cr": "🌴 Créole — Courant",
+    "lang_en": "🇺🇸 Anglais — Intermédiaire",
+    "cta_projects": "Voir les Projets",
+    "about_label": "À propos de moi",
+    "about_title": "Qui suis-je",
+    "about_text": "<p>Je suis développeur <strong>Front-end</strong> avec une expérience en WordPress, Angular, JavaScript, Node.js, Git, MySQL, MongoDB, Firebase, React et Next.js. Diplômé en <strong>Informatique</strong> de l'UFRRJ, je crois que les bonnes interfaces naissent de la combinaison entre un code propre et une attention à l'expérience utilisateur.</p><p>Je valorise le <strong>travail en équipe</strong>, la bonne communication et l'évolution technique constante. Je suis prêt à sortir de ma zone de confort et à apprendre de nouvelles technologies et approches de résolution de problèmes.</p><p>Je développe actuellement des projets personnels explorant des techniques telles que <strong>Web Sockets</strong>, <strong>Speech Synthesis/Recognition</strong> et l'intégration d'APIs externes, tout en approfondissant mes connaissances en Docker et Ingénierie IA.</p>",
+    "skills_frontend": "Front-end",
+    "skills_backend": "Back-end & Bases de données",
+    "skills_tools": "Outils & Plateformes",
+    "exp_label": "Carrière",
+    "exp_title": "Expérience Professionnelle",
+    "exp_current": "● Actuel (Collaborateur)",
+    "exp_pj": "Freelance · Télétravail",
+    "exp_intern": "Stage",
+    "experiences": [
+      {
+        "role": "Développeur Full Stack",
+        "company": "FIKIRIA",
+        "period": "Avr 2025 — Présent",
+        "type": "current",
+        "desc": "Développement et maintenance de la plateforme web et de l'application mobile qui collecte des données grâce à la technologie IoT (Internet des objets).",
+        "techs": [
+          "Firebase",
+          "JavaScript",
+          "GitLab"
+        ]
+      },
+      {
+        "role": "Développeur Front-end",
+        "company": "Crosoften",
+        "period": "Avr 2024 — Août 2024",
+        "type": "pj",
+        "desc": "Développement d'interfaces Front-end, intégration et maintenance d'applications Web. Méthodologie agile avec des réunions quotidiennes pour discuter des sprints, des tâches en attente et des prochaines étapes. Développement, commit et implémentation des corrections demandées par les clients.",
+        "techs": [
+          "Angular",
+          "Node.js"
+        ]
+      },
+      {
+        "role": "Stagiaire en Développement Web",
+        "company": "Procuradoria Geral do Município de Nova Iguaçu",
+        "period": "Avr 2021 — Juil 2022",
+        "type": "intern",
+        "desc": "Assistance au développement et à la maintenance du site institutionnel et du système de contrôle de présence du bureau du procureur. Support technique des serveurs, maintenance des bases de données et création de pages web avec Elementor (WordPress). Sauvegarde du contenu avec le plugin UpdraftPlus.",
+        "techs": [
+          "WordPress",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Java",
+          "Spring Boot"
+        ]
+      }
+    ],
+    "proj_label": "Portfolio",
+    "proj_title": "Projets principaux",
+    "proj_full_portfolio": "Voir le Portfolio Complet (en construction)",
+    "projects": [
+      {
+        "icon": "🎮",
+        "color": "rgba(0,212,255,0.15)",
+        "border": "rgba(0,212,255,0.2)",
+        "name": "Jeu d'Apprentissage du Français",
+        "desc": "Plateforme interactive pour apprendre le français avec authentification, images stockées en base de données, Web Sockets pour la communication en temps réel entre les pages et consommation d'APIs audio/vidéo avec limite de requêtes.",
+        "techs": [
+          "Next.js",
+          "MongoDB",
+          "Web Sockets",
+          "Speech Synthesis",
+          "Vercel"
+        ],
+        "demo": "https://french-game.vercel.app/",
+        "github": "https://github.com/han19githtbr/french_game.git"
+      },
+      {
+        "icon": "✅",
+        "color": "rgba(0,229,160,0.15)",
+        "border": "rgba(0,229,160,0.2)",
+        "name": "Système de Gestion de Tâches",
+        "desc": "Application full stack pour la gestion de tâches avec une interface Angular et un back-end Java. Permet la création, l'édition, la suppression et l'organisation de tâches avec une interface moderne et responsive.",
+        "techs": [
+          "Angular",
+          "Java",
+          "Vercel"
+        ],
+        "demo": "https://gerenciamento-tarefas-angular-gde6vunv6-han19githtbrs-projects.vercel.app/",
+        "github": "https://github.com/han19githtbr/gerenciamento_tarefas_angular.git"
+      },
+      {
+        "icon": "💬",
+        "color": "rgba(255,107,107,0.15)",
+        "border": "rgba(255,107,107,0.2)",
+        "name": "Système d'Envoi de Messages",
+        "desc": "Système de formulaire et d'envoi de messages développé en PHP et JavaScript, avec intégration d'une base de données simulant Intersystems Caché. Démontre l'intégration backend/frontend avec des technologies hétérogènes.",
+        "techs": [
+          "PHP",
+          "JavaScript",
+          "Intersystems Caché",
+          "Render"
+        ],
+        "demo": "https://php-javascript-form.onrender.com/",
+        "github": "https://github.com/han19githtbr/php-javascript-form.git"
+      }
+    ],
+    "award_label": "Reconnaissance",
+    "award_title": "Récompense",
+    "award_badge": "★ Ganhant — Top 6",
+    "award_event": "Hackathon Desafio Rocinha",
+    "award_desc": "L'équipe <strong>Indústrias William</strong> — composée de Deived William da Silva Azevedo, Handy Claude Marie Milliance et Jailson Dias da Silva — a été l'une des <strong>6 équipes gagnantes</strong> du Hackathon Desafio Rocinha avec le projet <strong>Prédiction de Glissement de Terrain</strong>. Le hackathon s'est déroulé dans le cadre du Programme Favela Inteligente en soutien aux Bases pour le Parc d'Innovation Sociale et Durable à Rocinha (Avis de Sélection N° 37/2021).",
+    "award_theme": "Innovation Sociale & Durabilité",
+    "edu_label": "Formation & Études",
+    "edu_title": "Éducation",
+    "edu_degree": "Licence en Informatique",
+    "studying_label": "En cours d'étude",
+    "studying_docker": "Déploiement d'applications en conteneurs",
+    "studying_ai_title": "Ingénierie IA",
+    "studying_ai_desc": "Techniques d'IA et intégration dans les applications",
+    "contact_label": "Parlons-en",
+    "contact_title": "Contact",
+    "contact_email_label": "E-mail",
+    "contact_phone_label": "Téléphone",
+    "contact_portfolio_label": "Portfolio",
+    "contact_location_label": "Localisation",
+    "contact_location_value": "Niterói, RJ — Brésil",
+    "footer_made": "Développé avec"
+  }
+}
