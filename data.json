@@ -135,7 +135,7 @@
     "contact_portfolio_label": "Portfólio",
     "contact_location_label": "Localização",
     "contact_location_value": "Niterói, RJ — Brasil",
-    "footer_made": "Desenvolvido com"
+    "footer_made": "Developed with"
   },
   "en": {
     "nav_about": "About",
@@ -273,7 +273,7 @@
     "contact_portfolio_label": "Portfolio",
     "contact_location_label": "Location",
     "contact_location_value": "Niterói, RJ — Brazil",
-    "footer_made": "Made with"
+    "footer_made": "Developed with"
   },
   "fr": {
     "nav_about": "À propos",
@@ -411,6 +411,6 @@
     "contact_portfolio_label": "Portfolio",
     "contact_location_label": "Localisation",
     "contact_location_value": "Niterói, RJ — Brésil",
-    "footer_made": "Développé avec"
+    "footer_made": "Developed with"
   }
 }
