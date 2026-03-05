@@ -27,7 +27,7 @@
     "exp_intern": "Estágio",
     "experiences": [
       {
-        "role": "Desenvolvedor Full Stack",
+        "role": "Desenvolvedor Front-end",
         "company": "FIKIRIA",
         "period": "Abr 2025 — Atual",
         "type": "current",
@@ -165,7 +165,7 @@
     "exp_intern": "Internship",
     "experiences": [
       {
-        "role": "Full Stack Developer",
+        "role": "Front-end Developer",
         "company": "FIKIRIA",
         "period": "Apr 2025 — Present",
         "type": "current",
@@ -303,7 +303,7 @@
     "exp_intern": "Stage",
     "experiences": [
       {
-        "role": "Développeur Full Stack",
+        "role": "Développeur Front-end",
         "company": "FIKIRIA",
         "period": "Avr 2025 — Présent",
         "type": "current",
@@ -327,7 +327,7 @@
       },
       {
         "role": "Stagiaire en Développement Web",
-        "company": "Procuradoria Geral do Município de Nova Iguaçu",
+        "company": "Bureau du procureur général de la municipalité de Nova Iguaçu",
         "period": "Avr 2021 — Juil 2022",
         "type": "intern",
         "desc": "Assistance au développement et à la maintenance du site institutionnel et du système de contrôle de présence du bureau du procureur. Support technique des serveurs, maintenance des bases de données et création de pages web avec Elementor (WordPress). Sauvegarde du contenu avec le plugin UpdraftPlus.",
@@ -343,7 +343,7 @@
     ],
     "proj_label": "Portfolio",
     "proj_title": "Projets principaux",
-    "proj_full_portfolio": "Voir le Portfolio Complet (en construction)",
+    
     "projects": [
       {
         "icon": "🎮",
