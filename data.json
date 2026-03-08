@@ -284,7 +284,7 @@
     "nav_contact": "Contact",
     "hero_status": "En constante évolution",
     "hero_role": "Développeur Front-end",
-    "hero_subtitle": "Je suis un développeur spécialisé dans la création d'interfaces qui valorisent l'expérience utilisateur et je m'efforce de suivre les bonnes pratiques du développement de logiciels.",
+    "hero_subtitle": "Je suis un développeur spécialisé dans la création d'interfaces qui valorisent l'expérience de l'utilisateur et je m'efforce de suivre les bonnes pratiques du développement de logiciels.",
     "lang_pt": "🇧🇷 Portugais — Avancé",
     "lang_fr": "🇫🇷 Français — Courant",
     "lang_cr": "🌴 Créole — Courant",
@@ -292,7 +292,7 @@
     "cta_projects": "Voir les Projets",
     "about_label": "À propos de moi",
     "about_title": "Qui suis-je",
-    "about_text": "<p>Je suis développeur <strong>Front-end</strong> avec une expérience en WordPress, Angular, JavaScript, Node.js, Git, MySQL, MongoDB, Firebase, React et Next.js. Diplômé en <strong>Informatique</strong> de l'UFRRJ, je crois que les bonnes interfaces naissent de la combinaison entre un code propre et une attention à l'expérience utilisateur.</p><p>Je valorise le <strong>travail en équipe</strong>, la bonne communication et l'évolution technique constante. Je suis prêt à sortir de ma zone de confort et à apprendre de nouvelles technologies et approches de résolution de problèmes.</p><p>Je développe actuellement des projets personnels explorant des techniques telles que <strong>Web Sockets</strong>, <strong>Speech Synthesis/Recognition</strong> et l'intégration d'APIs externes, tout en approfondissant mes connaissances en Docker et Ingénierie IA.</p>",
+    "about_text": "<p>Je suis développeur <strong>Front-end</strong> avec une expérience en WordPress, Angular, JavaScript, Node.js, Git, MySQL, MongoDB, Firebase, React et Next.js. Diplômé en <strong>Sciences Informatiques</strong> de l'UFRRJ, je crois que les bonnes interfaces naissent de la combinaison entre un code propre et une attention à l'expérience de l'utilisateur.</p><p>Je valorise le <strong>travail en équipe</strong>, la bonne communication et l'évolution technique constante. Je suis prêt à sortir de ma zone de confort et à apprendre de nouvelles technologies et approches de résolution de problèmes.</p><p>Je développe actuellement des projets personnels explorant des techniques telles que <strong>Web Sockets</strong>, <strong>Speech Synthesis/Recognition</strong> et l'intégration d'APIs externes, tout en approfondissant mes connaissances en Docker et Ingénierie IA.</p>",
     "skills_frontend": "Front-end",
     "skills_backend": "Back-end & Bases de données",
     "skills_tools": "Outils & Plateformes",
@@ -319,7 +319,7 @@
         "company": "Crosoften",
         "period": "Avr 2024 — Août 2024",
         "type": "pj",
-        "desc": "Développement d'interfaces Front-end, intégration et maintenance d'applications Web. Méthodologie agile avec des réunions quotidiennes pour discuter des sprints, des tâches en attente et des prochaines étapes. Développement, commit et implémentation des corrections demandées par les clients.",
+        "desc": "Développement d'interfaces Front-end, intégration et maintenance d'applications Web. Méthodologie agile avec des réunions quotidiennes pour discuter des sprints, des tâches en attente et les prochaines étapes. Développement, commit et implémentation des corrections demandées par les clients.",
         "techs": [
           "Angular",
           "Node.js"
