@@ -113,21 +113,6 @@
         ],
         "demo": "https://php-javascript-form.onrender.com/",
         "github": "https://github.com/han19githtbr/php-javascript-form.git"
-      },
-      {
-        "icon": "🖥️",
-        "color": "rgba(0,229,160,0.15)",
-        "border": "rgba(0,229,160,0.2)",
-        "name": "Entender Arquitetura de computadores",
-        "desc": "Sistema com banco de dados local desenvolvido em Html, Css e JavaScript para entender o funcionamento de um computador.",
-        "techs": [
-            "Html",
-            "Css",
-            "JavaScript",
-            "Git"
-        ],
-        "demo": "https://app-componentes-ti.vercel.app/",
-        "github": "https://github.com/han19githtbr/app_componentes_ti.git"
       }
 
     ],
@@ -267,22 +252,8 @@
         ],
         "demo": "https://php-javascript-form.onrender.com/",
         "github": "https://github.com/han19githtbr/php-javascript-form.git"
-      },
-      {
-        "icon": "🖥️",
-        "color": "rgba(0,229,160,0.15)",
-        "border": "rgba(0,229,160,0.2)",
-        "name": "Understand Computer's Architecture",
-        "desc": "System developed in Html, Css and JavaScript to understand how a computer works and how his components are connected.",
-        "techs": [
-            "Html",
-            "Css",
-            "JavaScript",
-            "Git"
-        ],
-        "demo": "https://app-componentes-ti.vercel.app/",
-        "github": "https://github.com/han19githtbr/app_componentes_ti.git"
       }
+      
     ],
     "award_label": "Recognition",
     "award_title": "Award",
@@ -420,22 +391,8 @@
         ],
         "demo": "https://php-javascript-form.onrender.com/",
         "github": "https://github.com/han19githtbr/php-javascript-form.git"
-      },
-      {
-        "icon": "🖥️",
-        "color": "rgba(0,229,160,0.15)",
-        "border": "rgba(0,229,160,0.2)",
-        "name": "Comprendre l'architecture d'un ordinateur",
-        "desc": "Système doté d'une base de données locale développé en Html, Css et JavaScript pour comprendre le fonctionnement d'un ordinateur.",
-        "techs": [
-            "Html",
-            "Css",
-            "JavaScript",
-            "Git"
-        ],
-        "demo": "https://app-componentes-ti.vercel.app/",
-        "github": "https://github.com/han19githtbr/app_componentes_ti.git"
       }
+      
     ],
     "award_label": "Reconnaissance",
     "award_title": "Récompense",
