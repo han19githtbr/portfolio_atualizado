@@ -5,8 +5,8 @@
     "nav_projects": "Projetos",
     "nav_award": "Premiação",
     "nav_education": "Formação",
+    "nav_extra": "Extracurricular",
     "nav_contact": "Contato",
-    "hero_status": "Em constante desenvolvimento",
     "hero_role": "Desenvolvedor Front-end",
     "hero_subtitle": "Sou um desenvolvedor focado em criar interfaces que valorizam a experiência da usuário e procuro utilizar as boas práticas de desenvolvimento de software.",
     "lang_pt": "🇧🇷 Português — Avançado",
@@ -129,6 +129,22 @@
     "studying_docker": "Implantação de aplicativos em contêineres",
     "studying_ai_title": "Engenharia de IA",
     "studying_ai_desc": "Técnicas de IA e integração em aplicações",
+    "extra_label": "Além do trabalho",
+    "extra_title": "Atividades Extracurriculares",
+    "extracurriculars": [
+      {
+        "icon": "🎓",
+        "role": "Aluno Bolsista",
+        "org": "PET Baixada — UFRRJ",
+        "period": "Dez 2015 — Fev 2020",
+        "desc": "Programa de Educação Tutorial (PET) — programa multidisciplinar com foco em ensino, pesquisa e extensão. Participação em reuniões semanais com atividades de leitura e produção de conteúdo sobre questões étnico-raciais. Organização de eventos culturais e acadêmicos, como a Semana da Baixada, e participação em eventos de outros grupos PETs no Brasil.",
+        "highlights": [
+          "Administração do site WordPress do grupo (atualizações, conteúdo e gerenciamento visual)",
+          "Produção de certificados para eventos e apoio nas publicações nas redes sociais",
+          "Atuação como membro da equipe de monitoria no SudestePET: credenciamento de participantes, orientação e entrega de kits"
+        ]
+      }
+    ],
     "contact_label": "Vamos conversar",
     "contact_title": "Contato",
     "contact_email_label": "E-mail",
@@ -144,6 +160,7 @@
     "nav_projects": "Projects",
     "nav_award": "Award",
     "nav_education": "Education",
+    "nav_extra": "Extracurricular",
     "nav_contact": "Contact",
     "hero_status": "Constantly improving",
     "hero_role": "Front-end Developer",
@@ -268,6 +285,22 @@
     "studying_docker": "Application deployment with containers",
     "studying_ai_title": "AI Engineering",
     "studying_ai_desc": "AI techniques and integration in applications",
+    "extra_label": "Beyond work",
+    "extra_title": "Extracurricular Activities",
+    "extracurriculars": [
+      {
+        "icon": "🎓",
+        "role": "Scholarship Student",
+        "org": "PET Baixada — UFRRJ",
+        "period": "Dec 2015 — Feb 2020",
+        "desc": "Tutorial Education Program (PET) — a multidisciplinary program focused on teaching, research and community outreach. Participated in weekly meetings with reading activities and content production on ethnic-racial issues. Organized cultural and academic events such as Semana da Baixada, and participated in events from other PET groups across Brazil.",
+        "highlights": [
+          "Managed the group's WordPress website (updates, content and visual management)",
+          "Produced certificates for events and supported social media publications",
+          "Served as a monitoring team member at SudestePET: participant registration, guidance and kit distribution"
+        ]
+      }
+    ],
     "contact_label": "Let's talk",
     "contact_title": "Contact",
     "contact_email_label": "Email",
@@ -283,6 +316,7 @@
     "nav_projects": "Projets",
     "nav_award": "Récompense",
     "nav_education": "Formation",
+    "nav_extra": "Extrascolaire",
     "nav_contact": "Contact",
     "hero_status": "En constante évolution",
     "hero_role": "Développeur Front-end",
@@ -407,6 +441,22 @@
     "studying_docker": "Déploiement d'applications en conteneurs",
     "studying_ai_title": "Ingénierie IA",
     "studying_ai_desc": "Techniques d'IA et intégration dans les applications",
+    "extra_label": "Au-delà du travail",
+    "extra_title": "Activités Extrascolaires",
+    "extracurriculars": [
+      {
+        "icon": "🎓",
+        "role": "Étudiant Boursier",
+        "org": "PET Baixada — UFRRJ",
+        "period": "Déc 2015 — Fév 2020",
+        "desc": "Programme d'Éducation Tutoriel (PET) — programme multidisciplinaire axé sur l'enseignement, la recherche et l'extension communautaire. Participation à des réunions hebdomadaires avec des activités de lecture et de production de contenu sur les questions ethno-raciales. Organisation d'événements culturels et académiques, tels que la Semana da Baixada, et participation à des événements d'autres groupes PET à travers le Brésil.",
+        "highlights": [
+          "Administration du site WordPress du groupe (mises à jour, contenu et gestion visuelle)",
+          "Production de certificats pour les événements et soutien aux publications sur les réseaux sociaux",
+          "Membre de l'équipe de surveillance au SudestePET : accréditation des participants, orientation et distribution des kits"
+        ]
+      }
+    ],
     "contact_label": "Parlons-en",
     "contact_title": "Contact",
     "contact_email_label": "E-mail",

@@ -46,6 +46,27 @@ function renderProjects(lang) {
   `).join('');
 }
 
+function renderExtra(lang) {
+  const d = DATA[lang];
+  if (!d.extracurriculars) return;
+  document.getElementById('extra-content').innerHTML = d.extracurriculars.map(item => `
+    <div class="extra-card">
+      <div class="extra-header">
+        <div class="extra-icon-wrap">${item.icon}</div>
+        <div class="extra-meta">
+          <div class="exp-role">${item.role}</div>
+          <div class="exp-company">${item.org}</div>
+        </div>
+        <div class="exp-period">${item.period}</div>
+      </div>
+      <div class="exp-desc" style="margin-top:12px;">${item.desc}</div>
+      <ul class="extra-highlights">
+        ${item.highlights.map(h => `<li>${h}</li>`).join('')}
+      </ul>
+    </div>
+  `).join('');
+}
+
 // ===== APPLY ALL TRANSLATIONS =====
 function applyTranslations(lang) {
   // data-i18n elements
@@ -63,6 +84,7 @@ function applyTranslations(lang) {
   renderAbout(lang);
   renderExperience(lang);
   renderProjects(lang);
+  renderExtra(lang);
   // html lang attr
   document.documentElement.lang = lang === 'pt' ? 'pt-BR' : lang === 'fr' ? 'fr-FR' : 'en-US';
   // page title

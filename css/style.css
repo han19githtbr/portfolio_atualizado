@@ -199,6 +199,16 @@ section { position: relative; z-index: 1; padding: 80px 40px; }
 .contact-label { font-size: 0.72rem; color: var(--text3); text-transform: uppercase; letter-spacing: 0.08em; font-family: var(--mono); margin-bottom: 2px; }
 .contact-value { font-size: 0.85rem; font-weight: 500; color: var(--text); }
 
+/* EXTRACURRICULAR */
+#extra { background: var(--bg); }
+.extra-card { background: var(--bg3); border: 1px solid var(--border); border-radius: 16px; padding: 32px; max-width: 800px; }
+.extra-header { display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; }
+.extra-icon-wrap { width: 52px; height: 52px; border-radius: 12px; background: rgba(192,132,252,0.1); border: 1px solid rgba(192,132,252,0.2); display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0; }
+.extra-meta { flex: 1; }
+.extra-highlights { margin-top: 16px; padding-left: 20px; display: flex; flex-direction: column; gap: 8px; }
+.extra-highlights li { font-size: 0.85rem; color: var(--text2); line-height: 1.6; }
+.extra-highlights li::marker { color: var(--accent); }
+
 footer { background: var(--bg2); border-top: 1px solid var(--border); padding: 24px 40px; text-align: center; font-family: var(--mono); font-size: 0.72rem; color: var(--text3); }
 
 /* Animations */
